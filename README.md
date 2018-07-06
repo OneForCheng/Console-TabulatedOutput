@@ -10,5 +10,8 @@ C#，TDD
 
 #### 用法
 
-![1530868140825](README.assets/1530868140825.png)
+![用法](README.assets/1530868140825.png)
 
+#### 效果
+
+![效果](README.assets/1530868987291.png)
